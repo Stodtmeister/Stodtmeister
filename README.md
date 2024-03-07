@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ### *Concerning Hobbits:*
 <h2>⚡🧙🏼‍♂️ Hello! I'm Jacob, a recent graduate from App Academy, looking forward to the adventure of software development. ⚡</a></h2>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,jest,git,express,sequelize,sqlite,py,raspberrypi,react,redux,aws,postgres,docker,linux,postman&perline=6)](https://skillicons.dev)
+[My Skills](https://skillicons.dev)
+
 
 
 
