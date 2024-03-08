@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Golden Text](images/title.png)
+![Golden Text](images/LordoftheCodes.png)
 
 ### *Concerning Hobbits:*
 <h2>⚡🧙🏼‍♂️ Hello! I'm Jacob, a recent graduate from App Academy, looking forward to the adventure of software development. ⚡</a></h2>
