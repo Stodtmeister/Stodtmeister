@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Golden Text](images/LordoftheCodes.png)
 
 ## *Concerning Hobbits:*
-<h2>⚡🧙🏼‍♂️ Hello! I'm Jacob, a recent graduate from App Academy, always up for  the adventures of software development. You have my swor... keyboard! ⚡</a></h2>
+<h2>⚡🧙🏼‍♂️ Hello! I'm Jacob, a full stack developer and recent graduate from App Academy, always up for  the adventures of software development. You have my swor... keyboard! ⚡</a></h2>
 
 <p><a href="https://stodtmeister.me"><img src="https://img.shields.io/badge/Portfolio-%3055.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/jacob-stodtmeister-b7b92a11b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> <a><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img></a></p>
 
