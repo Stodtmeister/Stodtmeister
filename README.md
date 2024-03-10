@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Golden Text](images/LordoftheCodes.png)
 
 ## *Concerning Hobbits:*
-<h2>⚡🧙🏼‍♂️ Hello! I'm Jacob, a recent graduate from App Academy, always up for  the adventures of software development. I'm here to collaborate, innovate, and contribute to meaningful projects while continually expanding my knowledge and skill set. You have my swor... keyboard! ⚡</a></h2>
+<h2>⚡🧙🏼‍♂️ Hello! I'm Jacob, a recent graduate from App Academy, always up for  the adventures of software development. You have my swor... keyboard! ⚡</a></h2>
 
 <p><a href="https://stodtmeister.me"><img src="https://img.shields.io/badge/Portfolio-%3055.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/jacob-stodtmeister-b7b92a11b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> <a><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></img></a></p>
 
@@ -33,18 +33,19 @@ Here are some ideas to get you started:
 </ul>
 
 
-
 ## 💥 A Few Quick Facts
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-
+<li>🏰 I'm a big fan of anyting Fantasy/SciFi</li>
+<li>🐈 Cats are my favorite! I also aim to be a Chihuahua owner one day. </li>
+<li>🌠 I am an aspiring picture book author.</li>
+<li>🏆 I enjoy reading, sports, board games, cinema, and Indian food!</li>
+<li>🎧 If I'm doing something mundane, I am 100% listening to an audiobook. (Listen to the Dungeon Crawler Carls series if you haven't already!)</li>
 </ul>
+
+##
 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDM1cXhoMndiMmw1YzNsd2toNXNqMG1ueXFlNGVsbHc5andoaXlkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fBq4IBhQkC69ancGiJ/giphy.gif" width="300" height="300">
+<br>
+"All we have to decide is what to do with the time that is given to us." -Gandalf, The Lord of the Rings
 </p>
