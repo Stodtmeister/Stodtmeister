@@ -13,13 +13,13 @@
 <ul>
 <li>Typescript</li>
 <li>Regular Expressions</li>
-<li>Continuing to learn about and improve the technologies I'm familar with. </li>
+<li>Continuing to learn about and improve the technologies I'm familar with.</li>
 </ul>
 
 
 ## 💥 A Few Quick Facts
 <ul>
-<li>🏰 I'm a big fan of anyting Fantasy/SciFi</li>
+<li>🏰 I'm a big fan of anyting Fantasy/SciFi.</li>
 <li>🐈 Cats are my favorite! I also aim to be a Chihuahua owner one day. </li>
 <li>🌠 I am an aspiring picture book author.</li>
 <li>🏆 I enjoy reading, sports, board games, cinema, and Indian food!</li>
