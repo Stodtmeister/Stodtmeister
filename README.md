@@ -23,7 +23,7 @@
 <li>🐈 Cats are my favorite! I also aim to be a Chihuahua owner one day. </li>
 <li>🌠 I am an aspiring picture book author.</li>
 <li>🏆 I enjoy reading, sports, board games, cinema, and Indian food!</li>
-<li>🎧 If I'm doing something mundane, I am 100% listening to an audiobook. (Listen to the Dungeon Crawler Carls series if you haven't already!)</li>
+<li>🎧 If I'm doing something mundane, I am 100% listening to an audiobook. (Listen to the Dungeon Crawler Carl series if you haven't already!)</li>
 </ul>
 
 ##
