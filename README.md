@@ -16,7 +16,6 @@
 <li>Continuing to learn about and improve the technologies I'm familar with.</li>
 </ul>
 
-
 ## 💥 A Few Quick Facts
 <ul>
 <li>🏰 I'm a big fan of anyting Fantasy/SciFi.</li>
