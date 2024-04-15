@@ -5,6 +5,7 @@
 
 <p><a href="https://stodtmeister.me"><img src="https://img.shields.io/badge/Portfolio-%3055.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/jacob-stodtmeister-b7b92a11b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>  <a href="https://github.com/Stodtmeister"><img src="https://img.shields.io/github/followers/stodtmeister?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=red" alt="GitHub Badge"></a></p>
 
+
 ## ⚔️ Skills
 [![My Skills](https://skillicons.dev/icons?i=js,python,html,css,react,redux,express,flask,sequelize,mysql,sqlite,nodejs,npm,git,github,)](https://skillicons.dev)
 
