@@ -4,7 +4,7 @@
 <h2>⚡🧙🏼‍♂️ Hello! I'm Jacob, a full stack developer and recent graduate from App Academy, always up for the adventures of software development. You have my swor... keyboard! ⚡</a></h2>
 
 <p>
-  <a href="https://stodtmeister.me">
+  <a href="https://stodtmeister.github.io">
     <img src="https://img.shields.io/badge/Portfolio-%3055.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Website Badge">
   </a>
   <a href="mailto:stodtmeister@gmail.com">
