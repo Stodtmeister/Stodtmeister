@@ -12,8 +12,9 @@
   </a>
   <a href="https://github.com/Stodtmeister"><img src="https://img.shields.io/github/followers/stodtmeister?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=red" alt="GitHub Badge">
   </a>
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  <a href="mailto:stodtmeister@gmail.com">
+    ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  </a>
 </p>
 
 
