@@ -5,9 +5,9 @@
 
 <p>
   <a href="https://stodtmeister.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%3055.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Website Badge"></a>
-  <a href="mailto:stodtmeister@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
+  <a href="mailto:stodtmeister@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
   <a href="https://www.linkedin.com/in/jacob-stodtmeister-b7b92a11b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://github.com/Stodtmeister"><img src="https://img.shields.io/github/followers/stodtmeister?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=red" alt="GitHub Badge"></a>
+  <a href="https://github.com/Stodtmeister" target="_blank"><img src="https://img.shields.io/github/followers/stodtmeister?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=red" alt="GitHub Badge"></a>
 </p>
 
 
